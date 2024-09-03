@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ea92e22cd5dc5a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ce87096ac4f373a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5eee3717a321e6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Sept 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "33bdb35f79b60e81",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Sept 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Sept 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Sept 3.md"
               }
             }
           }
@@ -171,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eee3717a321e6e1",
+  "active": "f93ba5303bf0f105",
   "lastOpenFiles": [
-    "Second Note.md",
+    "images",
+    "images/Pasted image 20240903110855.png",
+    "images/Pasted image 20240903110807.png",
+    "images/Pasted image 20240903110603.png",
+    "images/Pasted image 20240903110221.png",
+    "images/Pasted image 20240903110100.png",
+    "images/Pasted image 20240903105756.png",
+    "images/Pasted image 20240903105235.png",
+    "images/Pasted image 20240903104803.png",
+    "images/Pasted image 20240903104454.png",
+    "images/Pasted image 20240903104225.png",
     "Syllabus.md",
-    "First Note.md"
+    "Second Note.md",
+    "Sept 3.md"
   ]
 }
